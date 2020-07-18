@@ -1,6 +1,6 @@
 ---
 category: help
 layout: help
-mirrorid: ubuntu
+mirrorid: ubunturelease
 ---
 
